@@ -1,0 +1,3646 @@
+{
+ "consultores": [
+  {
+   "id": 1,
+   "nome": "Ana",
+   "equipe": "Patricia"
+  },
+  {
+   "id": 2,
+   "nome": "Joao",
+   "equipe": "Patricia"
+  },
+  {
+   "id": 3,
+   "nome": "Maria",
+   "equipe": "Patricia"
+  },
+  {
+   "id": 4,
+   "nome": "Pedro",
+   "equipe": "Patricia"
+  },
+  {
+   "id": 5,
+   "nome": "Juliana",
+   "equipe": "Patricia"
+  },
+  {
+   "id": 6,
+   "nome": "Carlos",
+   "equipe": "Fernanda"
+  },
+  {
+   "id": 7,
+   "nome": "Fernanda",
+   "equipe": "Fernanda"
+  },
+  {
+   "id": 8,
+   "nome": "Roberto",
+   "equipe": "Fernanda"
+  },
+  {
+   "id": 9,
+   "nome": "Patricia",
+   "equipe": "Fernanda"
+  },
+  {
+   "id": 10,
+   "nome": "Ricardo",
+   "equipe": "Roberta"
+  },
+  {
+   "id": 11,
+   "nome": "Camila",
+   "equipe": "Roberta"
+  },
+  {
+   "id": 12,
+   "nome": "Bruno",
+   "equipe": "Roberta"
+  },
+  {
+   "id": 13,
+   "nome": "Amanda",
+   "equipe": "Roberta"
+  },
+  {
+   "id": 14,
+   "nome": "Felipe",
+   "equipe": "Roberta"
+  }
+ ],
+ "vendas": [
+  {
+   "data": "2026-01-01",
+   "consultorId": 6,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-01-01",
+   "consultorId": 10,
+   "valor": 134.98
+  },
+  {
+   "data": "2026-01-02",
+   "consultorId": 1,
+   "valor": 104.98
+  },
+  {
+   "data": "2026-01-02",
+   "consultorId": 3,
+   "valor": 199.98
+  },
+  {
+   "data": "2026-01-02",
+   "consultorId": 8,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-01-03",
+   "consultorId": 11,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-01-04",
+   "consultorId": 1,
+   "valor": 144.98
+  },
+  {
+   "data": "2026-01-04",
+   "consultorId": 12,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-01-05",
+   "consultorId": 6,
+   "valor": 234.96
+  },
+  {
+   "data": "2026-01-05",
+   "consultorId": 7,
+   "valor": 110.08
+  },
+  {
+   "data": "2026-01-05",
+   "consultorId": 10,
+   "valor": 89.99
+  },
+  {
+   "data": "2026-01-05",
+   "consultorId": 11,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-01-05",
+   "consultorId": 12,
+   "valor": 299.96
+  },
+  {
+   "data": "2026-01-06",
+   "consultorId": 6,
+   "valor": 104.98
+  },
+  {
+   "data": "2026-01-07",
+   "consultorId": 2,
+   "valor": 179.97
+  },
+  {
+   "data": "2026-01-07",
+   "consultorId": 4,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-01-07",
+   "consultorId": 12,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-01-08",
+   "consultorId": 3,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-01-08",
+   "consultorId": 12,
+   "valor": 189.96
+  },
+  {
+   "data": "2026-01-08",
+   "consultorId": 13,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-01-09",
+   "consultorId": 1,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-01-10",
+   "consultorId": 7,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-01-11",
+   "consultorId": 1,
+   "valor": 239.97
+  },
+  {
+   "data": "2026-01-12",
+   "consultorId": 4,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-01-12",
+   "consultorId": 6,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-01-13",
+   "consultorId": 6,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-01-13",
+   "consultorId": 10,
+   "valor": 154.97
+  },
+  {
+   "data": "2026-01-14",
+   "consultorId": 14,
+   "valor": 55.0
+  },
+  {
+   "data": "2026-01-15",
+   "consultorId": 2,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-01-15",
+   "consultorId": 2,
+   "valor": 229.96
+  },
+  {
+   "data": "2026-01-16",
+   "consultorId": 3,
+   "valor": 199.97
+  },
+  {
+   "data": "2026-01-16",
+   "consultorId": 3,
+   "valor": 154.98
+  },
+  {
+   "data": "2026-01-17",
+   "consultorId": 4,
+   "valor": 359.95
+  },
+  {
+   "data": "2026-01-18",
+   "consultorId": 2,
+   "valor": 229.96
+  },
+  {
+   "data": "2026-01-19",
+   "consultorId": 1,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-01-19",
+   "consultorId": 12,
+   "valor": 159.96
+  },
+  {
+   "data": "2026-01-20",
+   "consultorId": 2,
+   "valor": 40.16
+  },
+  {
+   "data": "2026-01-20",
+   "consultorId": 4,
+   "valor": 55.0
+  },
+  {
+   "data": "2026-01-20",
+   "consultorId": 9,
+   "valor": 239.97
+  },
+  {
+   "data": "2026-01-20",
+   "consultorId": 9,
+   "valor": 89.99
+  },
+  {
+   "data": "2026-01-20",
+   "consultorId": 12,
+   "valor": 110.18
+  },
+  {
+   "data": "2026-01-21",
+   "consultorId": 7,
+   "valor": 299.96
+  },
+  {
+   "data": "2026-01-21",
+   "consultorId": 7,
+   "valor": 55.0
+  },
+  {
+   "data": "2026-01-21",
+   "consultorId": 11,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-01-21",
+   "consultorId": 12,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-01-22",
+   "consultorId": 1,
+   "valor": 269.96
+  },
+  {
+   "data": "2026-01-22",
+   "consultorId": 2,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-01-22",
+   "consultorId": 7,
+   "valor": 154.98
+  },
+  {
+   "data": "2026-01-23",
+   "consultorId": 1,
+   "valor": 134.97
+  },
+  {
+   "data": "2026-01-23",
+   "consultorId": 4,
+   "valor": 55.15
+  },
+  {
+   "data": "2026-01-23",
+   "consultorId": 8,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-01-23",
+   "consultorId": 13,
+   "valor": 144.98
+  },
+  {
+   "data": "2026-01-24",
+   "consultorId": 1,
+   "valor": 239.95
+  },
+  {
+   "data": "2026-01-25",
+   "consultorId": 6,
+   "valor": 50.37
+  },
+  {
+   "data": "2026-01-25",
+   "consultorId": 9,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-01-26",
+   "consultorId": 6,
+   "valor": 154.97
+  },
+  {
+   "data": "2026-01-26",
+   "consultorId": 13,
+   "valor": 100.06
+  },
+  {
+   "data": "2026-01-27",
+   "consultorId": 1,
+   "valor": 279.96
+  },
+  {
+   "data": "2026-01-27",
+   "consultorId": 6,
+   "valor": 49.99
+  },
+  {
+   "data": "2026-01-27",
+   "consultorId": 8,
+   "valor": 239.95
+  },
+  {
+   "data": "2026-01-27",
+   "consultorId": 10,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-01-28",
+   "consultorId": 3,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-01-28",
+   "consultorId": 5,
+   "valor": 189.96
+  },
+  {
+   "data": "2026-01-29",
+   "consultorId": 1,
+   "valor": 219.97
+  },
+  {
+   "data": "2026-01-29",
+   "consultorId": 3,
+   "valor": 135.09
+  },
+  {
+   "data": "2026-01-29",
+   "consultorId": 4,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-01-29",
+   "consultorId": 8,
+   "valor": 154.98
+  },
+  {
+   "data": "2026-01-30",
+   "consultorId": 6,
+   "valor": 229.96
+  },
+  {
+   "data": "2026-01-30",
+   "consultorId": 6,
+   "valor": 184.97
+  },
+  {
+   "data": "2026-01-30",
+   "consultorId": 13,
+   "valor": 154.97
+  },
+  {
+   "data": "2026-01-30",
+   "consultorId": 14,
+   "valor": 150.05
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 1,
+   "valor": 214.97
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 1,
+   "valor": 209.96
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 1,
+   "valor": -414.65
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 2,
+   "valor": 159.97
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 4,
+   "valor": 199.98
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 4,
+   "valor": 129.98
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 5,
+   "valor": 220.06
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 5,
+   "valor": 49.99
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 5,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 6,
+   "valor": 339.95
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 6,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 6,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 6,
+   "valor": 239.97
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 6,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 8,
+   "valor": 155.13
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 8,
+   "valor": 159.97
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 9,
+   "valor": 159.98
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 9,
+   "valor": 164.97
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 9,
+   "valor": 100.11
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 10,
+   "valor": 260.07
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 11,
+   "valor": 345.08
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 11,
+   "valor": 159.97
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 14,
+   "valor": 214.96
+  },
+  {
+   "data": "2026-01-31",
+   "consultorId": 14,
+   "valor": 79.99
+  },
+  {
+   "data": "2026-02-01",
+   "consultorId": 8,
+   "valor": 129.97
+  },
+  {
+   "data": "2026-02-02",
+   "consultorId": 3,
+   "valor": 155.11
+  },
+  {
+   "data": "2026-02-02",
+   "consultorId": 4,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-02-02",
+   "consultorId": 12,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-02-02",
+   "consultorId": 12,
+   "valor": 184.97
+  },
+  {
+   "data": "2026-02-02",
+   "consultorId": 13,
+   "valor": 154.97
+  },
+  {
+   "data": "2026-02-03",
+   "consultorId": 6,
+   "valor": 269.96
+  },
+  {
+   "data": "2026-02-03",
+   "consultorId": 14,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-02-04",
+   "consultorId": 2,
+   "valor": 115.14
+  },
+  {
+   "data": "2026-02-04",
+   "consultorId": 6,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-02-04",
+   "consultorId": 9,
+   "valor": 129.97
+  },
+  {
+   "data": "2026-02-04",
+   "consultorId": 9,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-02-05",
+   "consultorId": 4,
+   "valor": 229.95
+  },
+  {
+   "data": "2026-02-05",
+   "consultorId": 10,
+   "valor": 225.1
+  },
+  {
+   "data": "2026-02-05",
+   "consultorId": 12,
+   "valor": 204.97
+  },
+  {
+   "data": "2026-02-06",
+   "consultorId": 2,
+   "valor": 169.97
+  },
+  {
+   "data": "2026-02-06",
+   "consultorId": 6,
+   "valor": -794.51
+  },
+  {
+   "data": "2026-02-06",
+   "consultorId": 10,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-02-07",
+   "consultorId": 13,
+   "valor": 125.07
+  },
+  {
+   "data": "2026-02-08",
+   "consultorId": 10,
+   "valor": 184.97
+  },
+  {
+   "data": "2026-02-09",
+   "consultorId": 5,
+   "valor": 140.07
+  },
+  {
+   "data": "2026-02-09",
+   "consultorId": 11,
+   "valor": 259.96
+  },
+  {
+   "data": "2026-02-10",
+   "consultorId": 1,
+   "valor": 279.96
+  },
+  {
+   "data": "2026-02-10",
+   "consultorId": 8,
+   "valor": 119.97
+  },
+  {
+   "data": "2026-02-10",
+   "consultorId": 9,
+   "valor": 174.96
+  },
+  {
+   "data": "2026-02-10",
+   "consultorId": 13,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-02-11",
+   "consultorId": 1,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-02-11",
+   "consultorId": 1,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-02-11",
+   "consultorId": 1,
+   "valor": 169.97
+  },
+  {
+   "data": "2026-02-11",
+   "consultorId": 11,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-02-12",
+   "consultorId": 1,
+   "valor": 55.33
+  },
+  {
+   "data": "2026-02-13",
+   "consultorId": 1,
+   "valor": 159.98
+  },
+  {
+   "data": "2026-02-13",
+   "consultorId": 1,
+   "valor": 154.97
+  },
+  {
+   "data": "2026-02-13",
+   "consultorId": 6,
+   "valor": 124.98
+  },
+  {
+   "data": "2026-02-13",
+   "consultorId": 9,
+   "valor": 204.97
+  },
+  {
+   "data": "2026-02-15",
+   "consultorId": 8,
+   "valor": 124.98
+  },
+  {
+   "data": "2026-02-16",
+   "consultorId": 4,
+   "valor": 50.19
+  },
+  {
+   "data": "2026-02-16",
+   "consultorId": 7,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-02-16",
+   "consultorId": 14,
+   "valor": 144.98
+  },
+  {
+   "data": "2026-02-17",
+   "consultorId": 1,
+   "valor": 174.97
+  },
+  {
+   "data": "2026-02-17",
+   "consultorId": 2,
+   "valor": 159.98
+  },
+  {
+   "data": "2026-02-17",
+   "consultorId": 2,
+   "valor": 214.97
+  },
+  {
+   "data": "2026-02-18",
+   "consultorId": 11,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-02-19",
+   "consultorId": 3,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-02-19",
+   "consultorId": 4,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-02-19",
+   "consultorId": 5,
+   "valor": 89.99
+  },
+  {
+   "data": "2026-02-19",
+   "consultorId": 14,
+   "valor": 129.97
+  },
+  {
+   "data": "2026-02-20",
+   "consultorId": 1,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-02-20",
+   "consultorId": 3,
+   "valor": 269.96
+  },
+  {
+   "data": "2026-02-22",
+   "consultorId": 6,
+   "valor": 229.97
+  },
+  {
+   "data": "2026-02-23",
+   "consultorId": 4,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-02-23",
+   "consultorId": 6,
+   "valor": 434.94
+  },
+  {
+   "data": "2026-02-24",
+   "consultorId": 1,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-02-24",
+   "consultorId": 9,
+   "valor": 270.13
+  },
+  {
+   "data": "2026-02-24",
+   "consultorId": 9,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-02-24",
+   "consultorId": 12,
+   "valor": 119.97
+  },
+  {
+   "data": "2026-02-25",
+   "consultorId": 6,
+   "valor": 269.96
+  },
+  {
+   "data": "2026-02-25",
+   "consultorId": 6,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-02-25",
+   "consultorId": 11,
+   "valor": 194.97
+  },
+  {
+   "data": "2026-02-25",
+   "consultorId": 12,
+   "valor": 40.17
+  },
+  {
+   "data": "2026-02-26",
+   "consultorId": 6,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-02-26",
+   "consultorId": 6,
+   "valor": 49.99
+  },
+  {
+   "data": "2026-02-27",
+   "consultorId": 3,
+   "valor": 154.98
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 1,
+   "valor": 204.97
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 1,
+   "valor": 234.96
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 1,
+   "valor": 264.96
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 1,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 2,
+   "valor": 49.99
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 2,
+   "valor": 169.97
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 2,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 3,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 3,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 4,
+   "valor": 339.95
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 4,
+   "valor": 179.97
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 4,
+   "valor": 219.97
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 5,
+   "valor": 184.97
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 5,
+   "valor": 134.97
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 6,
+   "valor": 169.97
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 6,
+   "valor": 259.96
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 6,
+   "valor": 214.97
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 6,
+   "valor": 359.95
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 6,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 6,
+   "valor": 289.95
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 6,
+   "valor": 299.96
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 7,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 7,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 7,
+   "valor": 395.04
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 7,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 8,
+   "valor": 209.96
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 8,
+   "valor": 169.97
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 8,
+   "valor": 140.16
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 8,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 10,
+   "valor": 189.96
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 10,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 11,
+   "valor": 105.11
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 12,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 12,
+   "valor": 214.97
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 12,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 13,
+   "valor": 129.98
+  },
+  {
+   "data": "2026-02-28",
+   "consultorId": 14,
+   "valor": 175.06
+  },
+  {
+   "data": "2026-03-02",
+   "consultorId": 1,
+   "valor": 199.96
+  },
+  {
+   "data": "2026-03-02",
+   "consultorId": 6,
+   "valor": 189.97
+  },
+  {
+   "data": "2026-03-03",
+   "consultorId": 1,
+   "valor": 49.99
+  },
+  {
+   "data": "2026-03-03",
+   "consultorId": 4,
+   "valor": 194.97
+  },
+  {
+   "data": "2026-03-03",
+   "consultorId": 5,
+   "valor": 149.97
+  },
+  {
+   "data": "2026-03-03",
+   "consultorId": 5,
+   "valor": 255.06
+  },
+  {
+   "data": "2026-03-04",
+   "consultorId": 9,
+   "valor": 219.96
+  },
+  {
+   "data": "2026-03-04",
+   "consultorId": 10,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-03-05",
+   "consultorId": 1,
+   "valor": 149.97
+  },
+  {
+   "data": "2026-03-05",
+   "consultorId": 6,
+   "valor": 189.97
+  },
+  {
+   "data": "2026-03-06",
+   "consultorId": 6,
+   "valor": 279.94
+  },
+  {
+   "data": "2026-03-06",
+   "consultorId": 9,
+   "valor": 124.98
+  },
+  {
+   "data": "2026-03-06",
+   "consultorId": 13,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-03-07",
+   "consultorId": 11,
+   "valor": 234.96
+  },
+  {
+   "data": "2026-03-07",
+   "consultorId": 12,
+   "valor": 65.18
+  },
+  {
+   "data": "2026-03-08",
+   "consultorId": 10,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-03-09",
+   "consultorId": 2,
+   "valor": 70.15
+  },
+  {
+   "data": "2026-03-09",
+   "consultorId": 4,
+   "valor": 279.96
+  },
+  {
+   "data": "2026-03-09",
+   "consultorId": 6,
+   "valor": 214.97
+  },
+  {
+   "data": "2026-03-09",
+   "consultorId": 12,
+   "valor": 169.98
+  },
+  {
+   "data": "2026-03-09",
+   "consultorId": 14,
+   "valor": 130.06
+  },
+  {
+   "data": "2026-03-10",
+   "consultorId": 3,
+   "valor": 149.97
+  },
+  {
+   "data": "2026-03-10",
+   "consultorId": 3,
+   "valor": 159.98
+  },
+  {
+   "data": "2026-03-10",
+   "consultorId": 5,
+   "valor": 144.98
+  },
+  {
+   "data": "2026-03-10",
+   "consultorId": 7,
+   "valor": 134.98
+  },
+  {
+   "data": "2026-03-11",
+   "consultorId": 7,
+   "valor": 144.98
+  },
+  {
+   "data": "2026-03-11",
+   "consultorId": 13,
+   "valor": 154.97
+  },
+  {
+   "data": "2026-03-12",
+   "consultorId": 1,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-03-12",
+   "consultorId": 1,
+   "valor": 239.95
+  },
+  {
+   "data": "2026-03-12",
+   "consultorId": 3,
+   "valor": 189.97
+  },
+  {
+   "data": "2026-03-12",
+   "consultorId": 6,
+   "valor": 179.97
+  },
+  {
+   "data": "2026-03-13",
+   "consultorId": 3,
+   "valor": 150.12
+  },
+  {
+   "data": "2026-03-13",
+   "consultorId": 11,
+   "valor": 95.1
+  },
+  {
+   "data": "2026-03-13",
+   "consultorId": 12,
+   "valor": 134.97
+  },
+  {
+   "data": "2026-03-14",
+   "consultorId": 6,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-03-14",
+   "consultorId": 6,
+   "valor": 219.97
+  },
+  {
+   "data": "2026-03-15",
+   "consultorId": 9,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-03-16",
+   "consultorId": 1,
+   "valor": 154.98
+  },
+  {
+   "data": "2026-03-16",
+   "consultorId": 7,
+   "valor": 170.1
+  },
+  {
+   "data": "2026-03-17",
+   "consultorId": 2,
+   "valor": 359.95
+  },
+  {
+   "data": "2026-03-17",
+   "consultorId": 12,
+   "valor": 239.96
+  },
+  {
+   "data": "2026-03-18",
+   "consultorId": 1,
+   "valor": 269.96
+  },
+  {
+   "data": "2026-03-18",
+   "consultorId": 1,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-03-18",
+   "consultorId": 2,
+   "valor": 184.97
+  },
+  {
+   "data": "2026-03-18",
+   "consultorId": 8,
+   "valor": 109.98
+  },
+  {
+   "data": "2026-03-18",
+   "consultorId": 11,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-03-19",
+   "consultorId": 1,
+   "valor": 219.96
+  },
+  {
+   "data": "2026-03-19",
+   "consultorId": 9,
+   "valor": 250.14
+  },
+  {
+   "data": "2026-03-20",
+   "consultorId": 1,
+   "valor": 154.98
+  },
+  {
+   "data": "2026-03-20",
+   "consultorId": 3,
+   "valor": 149.97
+  },
+  {
+   "data": "2026-03-20",
+   "consultorId": 8,
+   "valor": 199.97
+  },
+  {
+   "data": "2026-03-20",
+   "consultorId": 12,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-03-20",
+   "consultorId": 13,
+   "valor": 150.09
+  },
+  {
+   "data": "2026-03-21",
+   "consultorId": 2,
+   "valor": 239.97
+  },
+  {
+   "data": "2026-03-21",
+   "consultorId": 8,
+   "valor": 149.97
+  },
+  {
+   "data": "2026-03-22",
+   "consultorId": 6,
+   "valor": 159.96
+  },
+  {
+   "data": "2026-03-23",
+   "consultorId": 4,
+   "valor": 159.98
+  },
+  {
+   "data": "2026-03-23",
+   "consultorId": 6,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-03-23",
+   "consultorId": 8,
+   "valor": 229.97
+  },
+  {
+   "data": "2026-03-23",
+   "consultorId": 8,
+   "valor": 114.98
+  },
+  {
+   "data": "2026-03-23",
+   "consultorId": 14,
+   "valor": 199.98
+  },
+  {
+   "data": "2026-03-24",
+   "consultorId": 3,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-03-24",
+   "consultorId": 5,
+   "valor": 49.99
+  },
+  {
+   "data": "2026-03-24",
+   "consultorId": 6,
+   "valor": 114.98
+  },
+  {
+   "data": "2026-03-24",
+   "consultorId": 8,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-03-24",
+   "consultorId": 14,
+   "valor": 169.98
+  },
+  {
+   "data": "2026-03-25",
+   "consultorId": 1,
+   "valor": 289.95
+  },
+  {
+   "data": "2026-03-25",
+   "consultorId": 6,
+   "valor": 289.95
+  },
+  {
+   "data": "2026-03-25",
+   "consultorId": 7,
+   "valor": 234.96
+  },
+  {
+   "data": "2026-03-25",
+   "consultorId": 12,
+   "valor": 174.97
+  },
+  {
+   "data": "2026-03-26",
+   "consultorId": 1,
+   "valor": 134.97
+  },
+  {
+   "data": "2026-03-26",
+   "consultorId": 2,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-03-26",
+   "consultorId": 9,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-03-27",
+   "consultorId": 1,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-03-27",
+   "consultorId": 6,
+   "valor": 509.92
+  },
+  {
+   "data": "2026-03-27",
+   "consultorId": 10,
+   "valor": 389.94
+  },
+  {
+   "data": "2026-03-27",
+   "consultorId": 12,
+   "valor": 159.98
+  },
+  {
+   "data": "2026-03-29",
+   "consultorId": 12,
+   "valor": 199.97
+  },
+  {
+   "data": "2026-03-30",
+   "consultorId": 4,
+   "valor": 229.95
+  },
+  {
+   "data": "2026-03-30",
+   "consultorId": 4,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-03-30",
+   "consultorId": 6,
+   "valor": -614.4
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 1,
+   "valor": 229.96
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 1,
+   "valor": 269.95
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 1,
+   "valor": -174.53
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 2,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 2,
+   "valor": 134.98
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 4,
+   "valor": 85.19
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 4,
+   "valor": 194.97
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 4,
+   "valor": 55.0
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 6,
+   "valor": 199.97
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 6,
+   "valor": 89.99
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 6,
+   "valor": 229.95
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 6,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 6,
+   "valor": 79.99
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 6,
+   "valor": 264.96
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 7,
+   "valor": 114.98
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 8,
+   "valor": 140.14
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 9,
+   "valor": 159.96
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 10,
+   "valor": 124.98
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 10,
+   "valor": 110.12
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 11,
+   "valor": 199.98
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 11,
+   "valor": 129.98
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 11,
+   "valor": 89.99
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 13,
+   "valor": 154.97
+  },
+  {
+   "data": "2026-03-31",
+   "consultorId": 14,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-04-01",
+   "consultorId": 1,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-04-02",
+   "consultorId": 1,
+   "valor": 289.95
+  },
+  {
+   "data": "2026-04-02",
+   "consultorId": 1,
+   "valor": 289.95
+  },
+  {
+   "data": "2026-04-02",
+   "consultorId": 6,
+   "valor": 299.96
+  },
+  {
+   "data": "2026-04-03",
+   "consultorId": 3,
+   "valor": 164.97
+  },
+  {
+   "data": "2026-04-03",
+   "consultorId": 6,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-04-04",
+   "consultorId": 5,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-04-05",
+   "consultorId": 8,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-04-05",
+   "consultorId": 10,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-04-06",
+   "consultorId": 14,
+   "valor": 119.97
+  },
+  {
+   "data": "2026-04-07",
+   "consultorId": 6,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-04-07",
+   "consultorId": 6,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-04-07",
+   "consultorId": 6,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-04-08",
+   "consultorId": 1,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-04-08",
+   "consultorId": 4,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-04-08",
+   "consultorId": 13,
+   "valor": 174.97
+  },
+  {
+   "data": "2026-04-09",
+   "consultorId": 7,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-04-09",
+   "consultorId": 11,
+   "valor": 229.96
+  },
+  {
+   "data": "2026-04-09",
+   "consultorId": 12,
+   "valor": 199.96
+  },
+  {
+   "data": "2026-04-10",
+   "consultorId": 1,
+   "valor": 144.98
+  },
+  {
+   "data": "2026-04-10",
+   "consultorId": 1,
+   "valor": 49.99
+  },
+  {
+   "data": "2026-04-10",
+   "consultorId": 6,
+   "valor": 279.94
+  },
+  {
+   "data": "2026-04-10",
+   "consultorId": 7,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-04-10",
+   "consultorId": 12,
+   "valor": 134.97
+  },
+  {
+   "data": "2026-04-11",
+   "consultorId": 8,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-04-13",
+   "consultorId": 1,
+   "valor": 229.96
+  },
+  {
+   "data": "2026-04-13",
+   "consultorId": 6,
+   "valor": 299.96
+  },
+  {
+   "data": "2026-04-13",
+   "consultorId": 11,
+   "valor": 159.98
+  },
+  {
+   "data": "2026-04-13",
+   "consultorId": 11,
+   "valor": 140.11
+  },
+  {
+   "data": "2026-04-13",
+   "consultorId": 12,
+   "valor": 79.99
+  },
+  {
+   "data": "2026-04-14",
+   "consultorId": 1,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-04-14",
+   "consultorId": 7,
+   "valor": 269.96
+  },
+  {
+   "data": "2026-04-14",
+   "consultorId": 11,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-04-15",
+   "consultorId": 1,
+   "valor": 264.96
+  },
+  {
+   "data": "2026-04-15",
+   "consultorId": 2,
+   "valor": 89.99
+  },
+  {
+   "data": "2026-04-16",
+   "consultorId": 11,
+   "valor": 199.97
+  },
+  {
+   "data": "2026-04-16",
+   "consultorId": 13,
+   "valor": 179.97
+  },
+  {
+   "data": "2026-04-16",
+   "consultorId": 14,
+   "valor": 89.99
+  },
+  {
+   "data": "2026-04-17",
+   "consultorId": 4,
+   "valor": 169.98
+  },
+  {
+   "data": "2026-04-17",
+   "consultorId": 6,
+   "valor": 279.94
+  },
+  {
+   "data": "2026-04-17",
+   "consultorId": 7,
+   "valor": 199.97
+  },
+  {
+   "data": "2026-04-18",
+   "consultorId": 2,
+   "valor": 214.96
+  },
+  {
+   "data": "2026-04-18",
+   "consultorId": 13,
+   "valor": 145.07
+  },
+  {
+   "data": "2026-04-19",
+   "consultorId": 9,
+   "valor": 105.14
+  },
+  {
+   "data": "2026-04-20",
+   "consultorId": 4,
+   "valor": 125.22
+  },
+  {
+   "data": "2026-04-20",
+   "consultorId": 5,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-04-20",
+   "consultorId": 6,
+   "valor": 159.96
+  },
+  {
+   "data": "2026-04-20",
+   "consultorId": 6,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-04-21",
+   "consultorId": 2,
+   "valor": 214.97
+  },
+  {
+   "data": "2026-04-21",
+   "consultorId": 4,
+   "valor": 239.95
+  },
+  {
+   "data": "2026-04-21",
+   "consultorId": 6,
+   "valor": 389.94
+  },
+  {
+   "data": "2026-04-21",
+   "consultorId": 8,
+   "valor": 199.98
+  },
+  {
+   "data": "2026-04-22",
+   "consultorId": 1,
+   "valor": 219.96
+  },
+  {
+   "data": "2026-04-22",
+   "consultorId": 1,
+   "valor": 110.58
+  },
+  {
+   "data": "2026-04-22",
+   "consultorId": 2,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-04-22",
+   "consultorId": 3,
+   "valor": 175.13
+  },
+  {
+   "data": "2026-04-22",
+   "consultorId": 8,
+   "valor": 170.13
+  },
+  {
+   "data": "2026-04-23",
+   "consultorId": 2,
+   "valor": 80.17
+  },
+  {
+   "data": "2026-04-24",
+   "consultorId": 6,
+   "valor": 359.95
+  },
+  {
+   "data": "2026-04-24",
+   "consultorId": 9,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-04-24",
+   "consultorId": 10,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-04-26",
+   "consultorId": 5,
+   "valor": 189.97
+  },
+  {
+   "data": "2026-04-27",
+   "consultorId": 3,
+   "valor": 359.95
+  },
+  {
+   "data": "2026-04-27",
+   "consultorId": 4,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-04-27",
+   "consultorId": 6,
+   "valor": 159.96
+  },
+  {
+   "data": "2026-04-27",
+   "consultorId": 9,
+   "valor": 184.97
+  },
+  {
+   "data": "2026-04-27",
+   "consultorId": 10,
+   "valor": 194.97
+  },
+  {
+   "data": "2026-04-28",
+   "consultorId": 3,
+   "valor": 119.97
+  },
+  {
+   "data": "2026-04-28",
+   "consultorId": 6,
+   "valor": 199.97
+  },
+  {
+   "data": "2026-04-28",
+   "consultorId": 9,
+   "valor": 229.95
+  },
+  {
+   "data": "2026-04-29",
+   "consultorId": 10,
+   "valor": 250.09
+  },
+  {
+   "data": "2026-04-29",
+   "consultorId": 12,
+   "valor": 289.95
+  },
+  {
+   "data": "2026-04-29",
+   "consultorId": 12,
+   "valor": 169.98
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 1,
+   "valor": 269.95
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 1,
+   "valor": 119.97
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 1,
+   "valor": 339.95
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 1,
+   "valor": 229.97
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 1,
+   "valor": 214.97
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 1,
+   "valor": 124.98
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 1,
+   "valor": 124.98
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 1,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 1,
+   "valor": 159.98
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 1,
+   "valor": 134.98
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 2,
+   "valor": 199.98
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 2,
+   "valor": 269.95
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 3,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 4,
+   "valor": 174.96
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 4,
+   "valor": 359.95
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 4,
+   "valor": 174.97
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 5,
+   "valor": 220.06
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 6,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 6,
+   "valor": -234.28
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 6,
+   "valor": 174.96
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 6,
+   "valor": 359.95
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 6,
+   "valor": 109.98
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 6,
+   "valor": 179.97
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 6,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 6,
+   "valor": 214.96
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 7,
+   "valor": 190.09
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 8,
+   "valor": 219.97
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 8,
+   "valor": 129.98
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 9,
+   "valor": 89.99
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 9,
+   "valor": 239.97
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 10,
+   "valor": 199.96
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 12,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 12,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 12,
+   "valor": 265.19
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 13,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 14,
+   "valor": 235.07
+  },
+  {
+   "data": "2026-04-30",
+   "consultorId": 14,
+   "valor": 154.97
+  },
+  {
+   "data": "2026-05-04",
+   "consultorId": 1,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-04",
+   "consultorId": 2,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-04",
+   "consultorId": 6,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-04",
+   "consultorId": 10,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-04",
+   "consultorId": 12,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-05-05",
+   "consultorId": 1,
+   "valor": 184.97
+  },
+  {
+   "data": "2026-05-05",
+   "consultorId": 2,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-05",
+   "consultorId": 3,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-05-05",
+   "consultorId": 4,
+   "valor": 199.96
+  },
+  {
+   "data": "2026-05-05",
+   "consultorId": 6,
+   "valor": 214.96
+  },
+  {
+   "data": "2026-05-05",
+   "consultorId": 8,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-05-05",
+   "consultorId": 9,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-05-05",
+   "consultorId": 10,
+   "valor": 109.98
+  },
+  {
+   "data": "2026-05-05",
+   "consultorId": 11,
+   "valor": 159.97
+  },
+  {
+   "data": "2026-05-05",
+   "consultorId": 12,
+   "valor": 179.97
+  },
+  {
+   "data": "2026-05-06",
+   "consultorId": 1,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-06",
+   "consultorId": 3,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-05-06",
+   "consultorId": 4,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-05-06",
+   "consultorId": 6,
+   "valor": 134.97
+  },
+  {
+   "data": "2026-05-06",
+   "consultorId": 7,
+   "valor": 239.97
+  },
+  {
+   "data": "2026-05-06",
+   "consultorId": 8,
+   "valor": 219.96
+  },
+  {
+   "data": "2026-05-06",
+   "consultorId": 9,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-06",
+   "consultorId": 10,
+   "valor": 239.96
+  },
+  {
+   "data": "2026-05-06",
+   "consultorId": 11,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-05-06",
+   "consultorId": 12,
+   "valor": 129.97
+  },
+  {
+   "data": "2026-05-07",
+   "consultorId": 1,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-05-07",
+   "consultorId": 2,
+   "valor": 269.96
+  },
+  {
+   "data": "2026-05-07",
+   "consultorId": 3,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-07",
+   "consultorId": 4,
+   "valor": 159.98
+  },
+  {
+   "data": "2026-05-07",
+   "consultorId": 6,
+   "valor": 199.98
+  },
+  {
+   "data": "2026-05-07",
+   "consultorId": 7,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-07",
+   "consultorId": 8,
+   "valor": 179.97
+  },
+  {
+   "data": "2026-05-07",
+   "consultorId": 9,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-05-07",
+   "consultorId": 11,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-05-07",
+   "consultorId": 12,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-05-08",
+   "consultorId": 1,
+   "valor": 109.98
+  },
+  {
+   "data": "2026-05-08",
+   "consultorId": 3,
+   "valor": 104.98
+  },
+  {
+   "data": "2026-05-08",
+   "consultorId": 6,
+   "valor": 199.96
+  },
+  {
+   "data": "2026-05-08",
+   "consultorId": 7,
+   "valor": 114.98
+  },
+  {
+   "data": "2026-05-08",
+   "consultorId": 8,
+   "valor": 259.96
+  },
+  {
+   "data": "2026-05-08",
+   "consultorId": 9,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-08",
+   "consultorId": 10,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-11",
+   "consultorId": 1,
+   "valor": 379.95
+  },
+  {
+   "data": "2026-05-11",
+   "consultorId": 2,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-11",
+   "consultorId": 3,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-05-11",
+   "consultorId": 4,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-05-11",
+   "consultorId": 6,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-11",
+   "consultorId": 9,
+   "valor": 209.96
+  },
+  {
+   "data": "2026-05-11",
+   "consultorId": 10,
+   "valor": 194.97
+  },
+  {
+   "data": "2026-05-11",
+   "consultorId": 11,
+   "valor": 199.96
+  },
+  {
+   "data": "2026-05-11",
+   "consultorId": 12,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-12",
+   "consultorId": 1,
+   "valor": 509.92
+  },
+  {
+   "data": "2026-05-12",
+   "consultorId": 4,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-05-12",
+   "consultorId": 6,
+   "valor": 219.96
+  },
+  {
+   "data": "2026-05-12",
+   "consultorId": 8,
+   "valor": 129.98
+  },
+  {
+   "data": "2026-05-12",
+   "consultorId": 9,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-05-12",
+   "consultorId": 10,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-12",
+   "consultorId": 12,
+   "valor": 194.97
+  },
+  {
+   "data": "2026-05-13",
+   "consultorId": 1,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-05-13",
+   "consultorId": 2,
+   "valor": 174.97
+  },
+  {
+   "data": "2026-05-13",
+   "consultorId": 3,
+   "valor": 229.95
+  },
+  {
+   "data": "2026-05-13",
+   "consultorId": 4,
+   "valor": 339.95
+  },
+  {
+   "data": "2026-05-13",
+   "consultorId": 5,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-05-13",
+   "consultorId": 6,
+   "valor": 434.94
+  },
+  {
+   "data": "2026-05-13",
+   "consultorId": 8,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-05-13",
+   "consultorId": 9,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-13",
+   "consultorId": 10,
+   "valor": 189.96
+  },
+  {
+   "data": "2026-05-13",
+   "consultorId": 12,
+   "valor": 55.0
+  },
+  {
+   "data": "2026-05-13",
+   "consultorId": 13,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-05-13",
+   "consultorId": 14,
+   "valor": 179.97
+  },
+  {
+   "data": "2026-05-14",
+   "consultorId": 1,
+   "valor": 79.99
+  },
+  {
+   "data": "2026-05-14",
+   "consultorId": 2,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-14",
+   "consultorId": 4,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-05-14",
+   "consultorId": 5,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-14",
+   "consultorId": 6,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-14",
+   "consultorId": 8,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-05-14",
+   "consultorId": 9,
+   "valor": 119.97
+  },
+  {
+   "data": "2026-05-14",
+   "consultorId": 11,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-05-14",
+   "consultorId": 13,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-05-14",
+   "consultorId": 14,
+   "valor": 219.96
+  },
+  {
+   "data": "2026-05-15",
+   "consultorId": 1,
+   "valor": 154.97
+  },
+  {
+   "data": "2026-05-15",
+   "consultorId": 2,
+   "valor": 129.98
+  },
+  {
+   "data": "2026-05-15",
+   "consultorId": 6,
+   "valor": 159.97
+  },
+  {
+   "data": "2026-05-15",
+   "consultorId": 7,
+   "valor": 154.97
+  },
+  {
+   "data": "2026-05-15",
+   "consultorId": 10,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-05-15",
+   "consultorId": 12,
+   "valor": 189.96
+  },
+  {
+   "data": "2026-05-15",
+   "consultorId": 13,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-05-18",
+   "consultorId": 1,
+   "valor": 234.96
+  },
+  {
+   "data": "2026-05-18",
+   "consultorId": 2,
+   "valor": 264.96
+  },
+  {
+   "data": "2026-05-18",
+   "consultorId": 4,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-05-18",
+   "consultorId": 6,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-05-18",
+   "consultorId": 8,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-05-18",
+   "consultorId": 9,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-18",
+   "consultorId": 11,
+   "valor": 169.97
+  },
+  {
+   "data": "2026-05-19",
+   "consultorId": 2,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-05-19",
+   "consultorId": 3,
+   "valor": 389.94
+  },
+  {
+   "data": "2026-05-19",
+   "consultorId": 4,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-05-19",
+   "consultorId": 6,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-19",
+   "consultorId": 8,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-19",
+   "consultorId": 9,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-05-19",
+   "consultorId": 13,
+   "valor": 119.97
+  },
+  {
+   "data": "2026-05-19",
+   "consultorId": 14,
+   "valor": 109.98
+  },
+  {
+   "data": "2026-05-20",
+   "consultorId": 1,
+   "valor": 159.98
+  },
+  {
+   "data": "2026-05-20",
+   "consultorId": 2,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-20",
+   "consultorId": 4,
+   "valor": 129.97
+  },
+  {
+   "data": "2026-05-20",
+   "consultorId": 5,
+   "valor": 149.97
+  },
+  {
+   "data": "2026-05-20",
+   "consultorId": 7,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-05-20",
+   "consultorId": 8,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-20",
+   "consultorId": 9,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-20",
+   "consultorId": 10,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-20",
+   "consultorId": 13,
+   "valor": 129.97
+  },
+  {
+   "data": "2026-05-20",
+   "consultorId": 14,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-05-21",
+   "consultorId": 1,
+   "valor": 79.99
+  },
+  {
+   "data": "2026-05-21",
+   "consultorId": 2,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-21",
+   "consultorId": 4,
+   "valor": 129.98
+  },
+  {
+   "data": "2026-05-21",
+   "consultorId": 6,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-05-21",
+   "consultorId": 7,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-21",
+   "consultorId": 9,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-05-21",
+   "consultorId": 13,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-22",
+   "consultorId": 2,
+   "valor": 129.98
+  },
+  {
+   "data": "2026-05-22",
+   "consultorId": 3,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-22",
+   "consultorId": 4,
+   "valor": 219.97
+  },
+  {
+   "data": "2026-05-22",
+   "consultorId": 5,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-22",
+   "consultorId": 6,
+   "valor": 239.95
+  },
+  {
+   "data": "2026-05-22",
+   "consultorId": 7,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-05-22",
+   "consultorId": 8,
+   "valor": 114.98
+  },
+  {
+   "data": "2026-05-22",
+   "consultorId": 11,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-05-25",
+   "consultorId": 3,
+   "valor": 114.98
+  },
+  {
+   "data": "2026-05-25",
+   "consultorId": 4,
+   "valor": 154.98
+  },
+  {
+   "data": "2026-05-25",
+   "consultorId": 5,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-05-25",
+   "consultorId": 6,
+   "valor": 359.95
+  },
+  {
+   "data": "2026-05-25",
+   "consultorId": 9,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-05-25",
+   "consultorId": 11,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-05-25",
+   "consultorId": 12,
+   "valor": 269.96
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 1,
+   "valor": 124.98
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 2,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 3,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 4,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 5,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 6,
+   "valor": 239.95
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 7,
+   "valor": 129.98
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 8,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 9,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 10,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 11,
+   "valor": 79.99
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 12,
+   "valor": 174.96
+  },
+  {
+   "data": "2026-05-26",
+   "consultorId": 13,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-05-27",
+   "consultorId": 1,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-27",
+   "consultorId": 2,
+   "valor": 204.97
+  },
+  {
+   "data": "2026-05-27",
+   "consultorId": 4,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-05-27",
+   "consultorId": 5,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-05-27",
+   "consultorId": 6,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-05-27",
+   "consultorId": 7,
+   "valor": 214.97
+  },
+  {
+   "data": "2026-05-27",
+   "consultorId": 9,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-05-27",
+   "consultorId": 11,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-05-27",
+   "consultorId": 12,
+   "valor": 214.96
+  },
+  {
+   "data": "2026-05-27",
+   "consultorId": 13,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-05-27",
+   "consultorId": 14,
+   "valor": 199.97
+  },
+  {
+   "data": "2026-05-28",
+   "consultorId": 1,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-05-28",
+   "consultorId": 2,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-05-28",
+   "consultorId": 4,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-05-28",
+   "consultorId": 5,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-05-28",
+   "consultorId": 6,
+   "valor": 229.96
+  },
+  {
+   "data": "2026-05-28",
+   "consultorId": 9,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-05-28",
+   "consultorId": 10,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-05-28",
+   "consultorId": 11,
+   "valor": 79.99
+  },
+  {
+   "data": "2026-05-28",
+   "consultorId": 12,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-05-28",
+   "consultorId": 13,
+   "valor": 159.96
+  },
+  {
+   "data": "2026-05-29",
+   "consultorId": 1,
+   "valor": 134.98
+  },
+  {
+   "data": "2026-05-29",
+   "consultorId": 2,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-05-29",
+   "consultorId": 3,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-05-29",
+   "consultorId": 4,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-29",
+   "consultorId": 5,
+   "valor": 174.96
+  },
+  {
+   "data": "2026-05-29",
+   "consultorId": 6,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-05-29",
+   "consultorId": 7,
+   "valor": 89.99
+  },
+  {
+   "data": "2026-05-29",
+   "consultorId": 8,
+   "valor": 114.98
+  },
+  {
+   "data": "2026-05-29",
+   "consultorId": 9,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-05-29",
+   "consultorId": 10,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-29",
+   "consultorId": 11,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-05-29",
+   "consultorId": 13,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-01",
+   "consultorId": 1,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-01",
+   "consultorId": 2,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-06-01",
+   "consultorId": 4,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-06-01",
+   "consultorId": 6,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-01",
+   "consultorId": 7,
+   "valor": 234.96
+  },
+  {
+   "data": "2026-06-01",
+   "consultorId": 10,
+   "valor": 159.97
+  },
+  {
+   "data": "2026-06-01",
+   "consultorId": 12,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-01",
+   "consultorId": 14,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-02",
+   "consultorId": 1,
+   "valor": 154.97
+  },
+  {
+   "data": "2026-06-02",
+   "consultorId": 3,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-06-02",
+   "consultorId": 4,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-06-02",
+   "consultorId": 5,
+   "valor": 109.98
+  },
+  {
+   "data": "2026-06-02",
+   "consultorId": 6,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-06-02",
+   "consultorId": 9,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-06-02",
+   "consultorId": 10,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-02",
+   "consultorId": 11,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-02",
+   "consultorId": 12,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-02",
+   "consultorId": 13,
+   "valor": 119.97
+  },
+  {
+   "data": "2026-06-02",
+   "consultorId": 14,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 1,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 2,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 3,
+   "valor": 49.99
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 4,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 5,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 6,
+   "valor": 114.98
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 8,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 9,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 10,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 11,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 12,
+   "valor": 49.99
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 13,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-03",
+   "consultorId": 14,
+   "valor": 194.97
+  },
+  {
+   "data": "2026-06-05",
+   "consultorId": 2,
+   "valor": 184.97
+  },
+  {
+   "data": "2026-06-05",
+   "consultorId": 5,
+   "valor": 194.97
+  },
+  {
+   "data": "2026-06-05",
+   "consultorId": 10,
+   "valor": 114.98
+  },
+  {
+   "data": "2026-06-05",
+   "consultorId": 12,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-05",
+   "consultorId": 13,
+   "valor": 124.98
+  },
+  {
+   "data": "2026-06-05",
+   "consultorId": 14,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-06-08",
+   "consultorId": 1,
+   "valor": 229.97
+  },
+  {
+   "data": "2026-06-08",
+   "consultorId": 3,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-06-08",
+   "consultorId": 4,
+   "valor": 134.97
+  },
+  {
+   "data": "2026-06-08",
+   "consultorId": 5,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-06-08",
+   "consultorId": 6,
+   "valor": 269.95
+  },
+  {
+   "data": "2026-06-08",
+   "consultorId": 7,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-06-08",
+   "consultorId": 9,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-08",
+   "consultorId": 10,
+   "valor": 164.97
+  },
+  {
+   "data": "2026-06-08",
+   "consultorId": 11,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-06-08",
+   "consultorId": 12,
+   "valor": 164.97
+  },
+  {
+   "data": "2026-06-08",
+   "consultorId": 13,
+   "valor": 69.99
+  },
+  {
+   "data": "2026-06-09",
+   "consultorId": 1,
+   "valor": 129.98
+  },
+  {
+   "data": "2026-06-09",
+   "consultorId": 3,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-06-09",
+   "consultorId": 4,
+   "valor": 154.98
+  },
+  {
+   "data": "2026-06-09",
+   "consultorId": 6,
+   "valor": 169.97
+  },
+  {
+   "data": "2026-06-09",
+   "consultorId": 7,
+   "valor": 169.97
+  },
+  {
+   "data": "2026-06-09",
+   "consultorId": 9,
+   "valor": 169.97
+  },
+  {
+   "data": "2026-06-09",
+   "consultorId": 11,
+   "valor": 169.98
+  },
+  {
+   "data": "2026-06-09",
+   "consultorId": 12,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-06-09",
+   "consultorId": 13,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-09",
+   "consultorId": 14,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-06-10",
+   "consultorId": 1,
+   "valor": 229.96
+  },
+  {
+   "data": "2026-06-10",
+   "consultorId": 2,
+   "valor": 279.94
+  },
+  {
+   "data": "2026-06-10",
+   "consultorId": 3,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-06-10",
+   "consultorId": 6,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-06-10",
+   "consultorId": 7,
+   "valor": 154.97
+  },
+  {
+   "data": "2026-06-10",
+   "consultorId": 9,
+   "valor": 289.95
+  },
+  {
+   "data": "2026-06-10",
+   "consultorId": 10,
+   "valor": 134.97
+  },
+  {
+   "data": "2026-06-10",
+   "consultorId": 11,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-06-10",
+   "consultorId": 12,
+   "valor": 169.98
+  },
+  {
+   "data": "2026-06-10",
+   "consultorId": 14,
+   "valor": 174.97
+  },
+  {
+   "data": "2026-06-11",
+   "consultorId": 1,
+   "valor": 189.97
+  },
+  {
+   "data": "2026-06-11",
+   "consultorId": 2,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-06-11",
+   "consultorId": 3,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-06-11",
+   "consultorId": 5,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-11",
+   "consultorId": 6,
+   "valor": 189.97
+  },
+  {
+   "data": "2026-06-11",
+   "consultorId": 8,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-11",
+   "consultorId": 9,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-06-11",
+   "consultorId": 11,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-11",
+   "consultorId": 12,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-11",
+   "consultorId": 13,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-12",
+   "consultorId": 1,
+   "valor": 79.99
+  },
+  {
+   "data": "2026-06-12",
+   "consultorId": 2,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-12",
+   "consultorId": 5,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-12",
+   "consultorId": 6,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-06-12",
+   "consultorId": 7,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-06-12",
+   "consultorId": 8,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-12",
+   "consultorId": 9,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-12",
+   "consultorId": 13,
+   "valor": 114.98
+  },
+  {
+   "data": "2026-06-12",
+   "consultorId": 14,
+   "valor": 279.96
+  },
+  {
+   "data": "2026-06-15",
+   "consultorId": 2,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-15",
+   "consultorId": 5,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-15",
+   "consultorId": 6,
+   "valor": 299.96
+  },
+  {
+   "data": "2026-06-15",
+   "consultorId": 9,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-15",
+   "consultorId": 10,
+   "valor": 139.97
+  },
+  {
+   "data": "2026-06-15",
+   "consultorId": 12,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-15",
+   "consultorId": 14,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-06-16",
+   "consultorId": 1,
+   "valor": 209.96
+  },
+  {
+   "data": "2026-06-16",
+   "consultorId": 5,
+   "valor": 99.99
+  },
+  {
+   "data": "2026-06-16",
+   "consultorId": 6,
+   "valor": 79.98
+  },
+  {
+   "data": "2026-06-16",
+   "consultorId": 8,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-16",
+   "consultorId": 10,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-06-16",
+   "consultorId": 12,
+   "valor": 49.99
+  },
+  {
+   "data": "2026-06-16",
+   "consultorId": 14,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-17",
+   "consultorId": 2,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-17",
+   "consultorId": 3,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-17",
+   "consultorId": 6,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-06-17",
+   "consultorId": 7,
+   "valor": 169.97
+  },
+  {
+   "data": "2026-06-17",
+   "consultorId": 9,
+   "valor": 94.98
+  },
+  {
+   "data": "2026-06-17",
+   "consultorId": 10,
+   "valor": 99.98
+  },
+  {
+   "data": "2026-06-17",
+   "consultorId": 11,
+   "valor": 219.96
+  },
+  {
+   "data": "2026-06-17",
+   "consultorId": 12,
+   "valor": 49.99
+  },
+  {
+   "data": "2026-06-18",
+   "consultorId": 1,
+   "valor": 109.98
+  },
+  {
+   "data": "2026-06-18",
+   "consultorId": 3,
+   "valor": 119.98
+  },
+  {
+   "data": "2026-06-18",
+   "consultorId": 9,
+   "valor": 144.98
+  },
+  {
+   "data": "2026-06-18",
+   "consultorId": 11,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-06-18",
+   "consultorId": 12,
+   "valor": 49.99
+  },
+  {
+   "data": "2026-06-19",
+   "consultorId": 1,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-19",
+   "consultorId": 6,
+   "valor": 139.98
+  },
+  {
+   "data": "2026-06-19",
+   "consultorId": 8,
+   "valor": 129.98
+  },
+  {
+   "data": "2026-06-19",
+   "consultorId": 9,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-19",
+   "consultorId": 10,
+   "valor": 39.99
+  },
+  {
+   "data": "2026-06-19",
+   "consultorId": 11,
+   "valor": 59.99
+  },
+  {
+   "data": "2026-06-22",
+   "consultorId": 1,
+   "valor": 54.99
+  },
+  {
+   "data": "2026-06-22",
+   "consultorId": 6,
+   "valor": 59.99
+  }
+ ],
+ "metas": {
+  "Patricia": 5200,
+  "Fernanda": 5000,
+  "Roberta": 5000
+ }
+}

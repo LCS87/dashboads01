@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --color-surface: #edf3f2;
+  --color-card: #ffffff;
+  --color-line: rgba(14, 22, 24, 0.08);
+
+  /* ====== Verde Petróleo + Bronze (dark) ====== */
+  --color-night: #0e1618;
+  --color-nightcard: #1f2d33;
+  --color-nightline: rgba(232, 238, 240, 0.06);
+
+  /* escala porosa — mapeia os usos antigos de "indigo" */
+  --color-brand-50: #eaf3f2;
+  --color-brand-100: #d3e6e4;
+  --color-brand-200: #b3d4d0;
+  --color-brand-300: #6fbfae;
+  --color-brand-400: #3ba58d;
+  --color-brand-500: #1f6f78;
+  --color-brand-600: #1a5f67;
+  --color-brand-700: #175058;
+
+  /* bronze (acento) */
+  --color-bronze: #b08d57;
+  --color-bronze-light: #cdb089;
+  --color-bronze-dark: #8f6f3e;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* números tabulares para KPIs */
+.tnum {
+  font-variant-numeric: tabular-nums;
+  font-family: var(--font-mono);
+}
+
+/* barra de micro-label */
+.micro-label {
+  font-size: 0.6875rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+/* scrollbar discreta */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(128, 132, 152, 0.35);
+  border-radius: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* skeleton shimmer */
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+}
+.skeleton::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  animation: shimmer 1.6s infinite;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(148, 153, 184, 0.12),
+    transparent
+  );
+}
+
+/* entrada dos cards */
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.rise {
+  animation: rise 0.55s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
