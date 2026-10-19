@@ -3,7 +3,7 @@
 <div align="center">
   <h3>📊 Painel SaaS de Gestão de Vendas — Estilo Premium, Performance Real</h3>
   
-  ![Dashboard Preview](assets/dashboad-preview.gif)
+  ![Preview do Dashboard](assets/dashboad-preview01.gif)
   
 
 </div>
