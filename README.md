@@ -1,7 +1,7 @@
 # 🌊 Maré de Vendas — Dashboard Administrativo de Vendas
 
 <div align="center">
-  <h3>📊 Painel SaaS de Gestão de Vendas — Estilo Premium, Performance Real</h3>
+  <h3>📊 Painel SaaS de Gestão de Vendas</h3>
   
   ![Preview do Dashboard](salespulse/assets/dashboad-preview01.gif)
   
